@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>replit</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+  Hello world
+  <script src="script.js"></script>
+    
+    <h1>JavaScript Demo page</h1>
+            
+  <form id = "inform">
+    Enter a number between 1 and 10:<br>
+    <input type="text" id="textin"
+            
+  </form>
+      
+  <br>
+  <button onclick="findSquare(inform)">Run</button>button
+      
+  <br><br>
+  The square of your number is:<br>
+  <p id="textout"></p>
+    <br>
+    <script src=square.js></script>
+    
+    
+</body>
+
+</html>
