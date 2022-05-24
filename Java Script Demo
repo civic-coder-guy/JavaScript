@@ -27,7 +27,7 @@
   The square of your number is:<br>
   <p id="textout"></p>
     <br>
-    <script src=square.js></script>
+    <script src=square2.js></script>
     
     
 </body>
